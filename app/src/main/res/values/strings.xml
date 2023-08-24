@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Recipe</string>
+    <string name="test"> Test</string>
+    <string name="menu1"> Upload Recipe</string>
+    <string name="menu2"> View Your Recipes</string>
+    <string name="menu3"> View Your Comments</string>
+    <string name="action_settings">Settings</string>
+</resources>
